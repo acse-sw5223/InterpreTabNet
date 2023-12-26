@@ -10,7 +10,10 @@ This repo is part of the code for the paper: [Stable and Interpretable Deep Lear
   
 It also contains the scripts of InterpreTabNet which has been modified based on the `pytorch-tabnet` package. Below is a figure shows the workflow of the paper:
 
-<img src="InterpreTabNet.png">
+<div style="text-align: center;">
+    <img src="InterpreTabNet.png" width="80%">
+</div>
+
 
 <!-- ![image](https://drive.google.com/uc?export=view&id=17iKeZ-5jOis9hCMIu9_nGtzSfZMjmdOM) -->
 
