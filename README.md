@@ -21,3 +21,9 @@ It also contains the scripts of InterpreTabNet which has been modified based on 
 Additionally, since the paper is a preprinted one, we have been improving the designs and experiments, the repo is more likely to be a draft to show our ideas of what is going on. Meanwhile, we added some data analysis to make the process more rigorous, so the experimental results in the repo may be a little different from what has been written in the paper.
 
 More details can be found in the paper, and we hope the repo can be completed soon!
+
+-----
+
+*\*The dataset was collected from the [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients).*
+
+*\*The original repo of TabNet is [here](https://github.com/dreamquark-ai/tabnet).*
