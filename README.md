@@ -24,6 +24,18 @@ More details can be found in the paper, and we hope the repo can be completed so
 
 -----
 
+If you want to use our resources, please cite our work:
+
+```python
+@article{wa2023stable,
+  title={Stable and Interpretable Deep Learning for Tabular Data: Introducing InterpreTabNet with the Novel InterpreStability Metric},
+  author={Wa, Shiyun and Lu, Xinai and Wang, Minjuan},
+  journal={arXiv preprint arXiv:2310.02870},
+  year={2023}
+}
+```
+-----
+
 *\*The dataset was collected from the [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients).*
 
 *\*The original repo of TabNet is [here](https://github.com/dreamquark-ai/tabnet).*
